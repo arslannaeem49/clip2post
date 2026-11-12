@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+.build-venv/
+
+# Clip2Post runtime data (never published)
+projects/
+models/
+bin/
+dist/
+build/
+*.spec
+
+# Installer output
+installer/Output/
+
+# OS / editors
+Thumbs.db
+Desktop.ini
+.vscode/
+.idea/
